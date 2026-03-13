@@ -22,7 +22,7 @@
 
 ## Recent Journal Papers
 
-1. **Rathi, N., Chakraborty, I., Kosta, A., Sengupta, A., Ankit, A., Panda, P., & Roy, K. (2023).**  
+1. *(Professor Recommended Survey)* **Rathi, N., Chakraborty, I., Kosta, A., Sengupta, A., Ankit, A., Panda, P., & Roy, K. (2023).**  
    *Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware.*  
    ACM Computing Surveys, 55(12), Article 243.  
    https://doi.org/10.1145/3571155
